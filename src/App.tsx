@@ -3,7 +3,7 @@ import Routes from "./Routes";
 
 const App: React.FC = function App() {
   return (
-    <Routes /> 
+    <Routes />
   );
 }
 
